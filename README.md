@@ -6,7 +6,7 @@
 
 ![Maiky Caires GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikyCaires&show_icons=true&theme=radical)
 
-##Tecnologias
+
 
 Estudando para me tornar um especialista.
 
